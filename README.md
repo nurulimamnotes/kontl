@@ -4,7 +4,7 @@ Kontl
 What the fuck is this?
 ----------------------
 
-Kontl is a client for kon.tl's URL shortening service written in [Go](http://golang.org/) language.
+Kontl is a client for [kon.tl](http://kon.tl)'s URL shortening service written in [Go](http://golang.org/) language.
 
 How to use this thing?
 ----------------------
@@ -18,11 +18,11 @@ Compile:
 
 Run:
 
-	$ ./kontl 
+	$ kontl 
 	Usage: kontl [URL]
 	
-	$ ./kontl http://jim.geovedi.com
-	Long URL: http://jim.geovedi.com
+	$ kontl http://jim.geovedi.com
+	 Long URL: http://jim.geovedi.com
 	Short URL: http://kon.tl/1689
 
 
